@@ -1,2 +1,2 @@
 # website
-Acadora Faculty AI Launch
+Acadora Faculty AI  Launch
